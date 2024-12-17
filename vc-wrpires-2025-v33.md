@@ -5,12 +5,12 @@
 
 *Birthdate (m/d/y):* 9/2/1976
 
-*LinkedIn:* https://www.linkedin.com/in/wpjr2
+[*LinkedIn:*](https://www.linkedin.com/in/wpjr2) 
 
-*GitHub:* https://github.com/waldirpires
+[*waldirpires@GitHub:*](https://github.com/waldirpires)
 
 [*LattesBR:*](http://lattes.cnpq.br/7637149877535462)
 
-##Objectives
+## Objectives
 
-##Education
+## Education
