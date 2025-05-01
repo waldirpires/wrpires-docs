@@ -136,6 +136,14 @@ Experienced software engineer, tech lead, and educator with 20+ years of interna
 - Divus Tech (2006): JavaSE/ME  
 - Number One English (1998–2002): English Fluency
 
+| ID | Teaching Area                   | Subjects Taught                                                                                              | Institutions                              | Years Active | Level                      | Delivery           |
+|----|----------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------|----------------------------|---------------------|
+| 1  | Algorithms & Data Structures     | Algorithms and Data Structures in Java, Advanced Algorithms, Algorithm Project and Analysis, Google Prep-Tech | Newton Paiva, ADA Tech, Pitágoras         | 2015–2024    | Undergraduate, Extension   | Online & In-person  |
+| 2  | Programming Languages            | Programming Languages (Java & C), JavaME, Java Programming, OOP in Java, C#, C/C++, Logic in Java            | Newton Paiva, Pitágoras, PUC-MG, Divus, ETEG | 2006–2024 | Undergraduate, Technical   | Online & In-person  |
+| 3  | Web & Software Engineering       | Web App Architectures, Web Programming, Web Services in Java, JSF, SOA, Software Engineering, Metrics, Analysis | Newton Paiva, IGTI, Estácio, ETEG, PUC-MG, Pitágoras | 2007–2024 | Undergraduate, Graduate | Online & In-person  |
+| 4  | Computer Literacy & Foundations  | Info Systems, Computer Literacy, Web/Mobile/Embedded CS, English Fluency, Dynamic English                     | Newton Paiva, Broward, PUC-MG, Number One | 1998–2024    | Foundation, Extension      | Online & In-person  |
+| 5  | Data Science & Emerging Tech     | Data Science with Python                                                                                      | Newton Paiva                              | 2021–2024    | Undergraduate              | Online              |
+
 ---
 
 # Personal Projects
