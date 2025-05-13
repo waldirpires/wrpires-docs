@@ -47,22 +47,15 @@ Experienced software engineer, tech lead, and educator with 20+ years of interna
 
 ---
 
-# Certifications
-
-- SCJA: Sun Certified Java Associate (2005)  
-- SCJP: Sun Certified Java Programmer 1.4 (2006)  
-- SCMAD: Sun Certified Mobile Application Developer (2006)  
-- CSM: Certified Scrum Master (2015)
-
----
-
 # Professional Experience
 
 ## Tech Lead / Engineering Manager  
 **Mindera** (Remote, EU)  
 *Oct 2024 – Present*  
 - Led 3-4 pods, 16 engineers, engineering best practices, Agile ceremonies.  
-- Projects: Marks & Spencer (Loyalty, Payments Platforms)
+- Projects: Marks & Spencer
+  - Loyalty Platform
+  - Payments Capabilities (PCAP) Platforms
 
 ## Java Software Engineer / Consultant  
 **Andela / Mars Petcare** (Remote, EU)  
@@ -71,7 +64,7 @@ Experienced software engineer, tech lead, and educator with 20+ years of interna
 - Project: Customer Data Platform (Azure, Java 21, Databricks)
 
 ## Senior Software Engineer / Tech Lead  
-**BoostIt / TLScontact** (Remote, EU)  
+**Boost-IT / TLScontact** (Remote, EU)  
 *Feb 2023 – Mar 2024*  
 - Led cloud-based microservices for visa solutions.  
 - Guided architecture, QA, testing, observability adoption (Datadog).
@@ -128,13 +121,13 @@ Experienced software engineer, tech lead, and educator with 20+ years of interna
 - ADA-Tech / Google Prep-Tech: Algorithms & Data Structures (2024)  
 - Newton Paiva Univ. (2021–2024): Web Architecture, Java, Data Science, Software Eng.  
 - Broward Intl Univ. (2020): Computer & Internet Literacy  
-- Estácio (2016): Software Metrics  
+- Estácio de Sá University Center (2016): Software Metrics  
 - IGTI / XP Educação (2011–2012): Web Services, JSF, Java Logic  
-- Pitágoras (2015–2019): Distributed Systems, Programming, Algorithms  
+- Pitágoras/Kroton (2011–2019): Distributed Systems, Programming, Algorithms and Data Structures 
 - PUC-MG (2008–2010): SOA, C# Programming, IT Literacy  
 - ETEG (2007–2010): Java, JSF, JavaME  
 - Divus Tech (2006): JavaSE/ME  
-- Number One English (1998–2002): English Fluency
+- Number One English (1998–2002): Dynamic and CAF (Communication and Fluency) Methods
 
 | ID | Teaching Area                   | Subjects Taught                                                                                              | Institutions                              | Years Active | Level                      | Delivery           |
 |----|----------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------|----------------------------|---------------------|
@@ -143,6 +136,15 @@ Experienced software engineer, tech lead, and educator with 20+ years of interna
 | 3  | Web & Software Engineering       | Web App Architectures, Web Programming, Web Services in Java, JSF, SOA, Software Engineering, Metrics, Analysis | Newton Paiva, IGTI, Estácio, ETEG, PUC-MG, Pitágoras | 2007–2024 | Undergraduate, Graduate | Online & In-person  |
 | 4  | Computer Literacy & Foundations  | Info Systems, Computer Literacy, Web/Mobile/Embedded CS, English Fluency, Dynamic English                     | Newton Paiva, Broward, PUC-MG, Number One | 1998–2024    | Foundation, Extension      | Online & In-person  |
 | 5  | Data Science & Emerging Tech     | Data Science with Python                                                                                      | Newton Paiva                              | 2021–2024    | Undergraduate              | Online              |
+
+---
+
+# Certifications
+
+- SCJA: Sun Certified Java Associate (2005)  
+- SCJP: Sun Certified Java Programmer 1.4 (2006)  
+- SCMAD: Sun Certified Mobile Application Developer (2006)  
+- CSM: Certified Scrum Master (2015)
 
 ---
 
